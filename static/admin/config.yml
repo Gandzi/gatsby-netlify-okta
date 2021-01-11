@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: Gandzi/gatsby-netlify-okta
   branch: main
 media_folder: static/assets
